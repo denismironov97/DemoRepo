@@ -1,0 +1,9 @@
+Project ideas for animals.
+-cat
+-dog
+-tiger
+-frog
+-lizzard
+-monkey
+
+-ape
