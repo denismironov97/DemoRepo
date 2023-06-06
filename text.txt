@@ -5,5 +5,6 @@ Project ideas for animals.
 -frog
 -lizzard
 -monkey
-
+-fox
 -ape
+-lion
